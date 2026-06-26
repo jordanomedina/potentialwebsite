@@ -1,0 +1,198 @@
+<?xml version="1.0" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xalan="http://xml.apache.org/xalan" xsi="http://www.w3.org/2001/XMLSchema-instance" creator="Esri" version="1.1">
+  <wpt lon="6.404084100000034" lat="45.03317800000008">
+    <ele>0</ele>
+    <name>Sweetgrass</name>
+    <desc>Plant</desc>
+  </wpt>
+  <wpt lon="6.4030928000000245" lat="45.03154360000008">
+    <ele>0</ele>
+    <name>Dismantled Ski Lifts</name>
+    <desc>Fun Fact</desc>
+  </wpt>
+  <wpt lon="6.395378600000072" lat="45.02995880000003">
+    <ele>0</ele>
+    <name>Green Alder Woodland</name>
+    <desc>Plant</desc>
+  </wpt>
+  <wpt lon="6.387774600000057" lat="45.02744740000003">
+    <ele>0</ele>
+    <name>Tall Herb Meadow</name>
+    <desc>Plant</desc>
+  </wpt>
+  <wpt lon="6.384803800000043" lat="45.02725620000007">
+    <ele>0</ele>
+    <name>Martagon Lily</name>
+    <desc>Plant</desc>
+  </wpt>
+  <wpt lon="6.382075300000054" lat="45.025009200000056">
+    <ele>0</ele>
+    <name>Black Grouse</name>
+    <desc>Animal</desc>
+  </wpt>
+  <wpt lon="6.379374000000041" lat="45.02425090000003">
+    <ele>0</ele>
+    <name>View of La Meije</name>
+    <desc>View</desc>
+  </wpt>
+  <wpt lon="6.3774219000000585" lat="45.02314780000006">
+    <ele>0</ele>
+    <name>The Man's Lookout</name>
+    <desc>View</desc>
+  </wpt>
+  <wpt lon="6.380043500000056" lat="45.006616000000065">
+    <ele>0</ele>
+    <name>The Marmots' Mound</name>
+    <desc>Animal</desc>
+  </wpt>
+  <wpt lon="6.397510300000022" lat="44.986266500000056">
+    <ele>0</ele>
+    <name>Felwort</name>
+    <desc>Plant</desc>
+  </wpt>
+  <wpt lon="6.409290200000044" lat="44.977663300000074">
+    <ele>0</ele>
+    <name>Arsine Pass</name>
+    <desc>Pass</desc>
+  </wpt>
+  <wpt lon="6.411502700000028" lat="44.975668400000075">
+    <ele>0</ele>
+    <name>Arctic Rush</name>
+    <desc>Plant</desc>
+  </wpt>
+  <wpt lon="6.413193800000045" lat="44.97511460000004">
+    <ele>0</ele>
+    <name>Rock Ptarmigan</name>
+    <desc>Animal</desc>
+  </wpt>
+  <wpt lon="6.418418000000031" lat="44.97997350000003">
+    <ele>0</ele>
+    <name>Moraine</name>
+    <desc>Wetland</desc>
+  </wpt>
+  <wpt lon="6.420033800000056" lat="44.980683200000044">
+    <ele>0</ele>
+    <name>An Aquatic Regime</name>
+    <desc>Animal</desc>
+  </wpt>
+  <wpt lon="6.414648500000055" lat="44.97282760000007">
+    <ele>0</ele>
+    <name>Glacier Calving</name>
+    <desc>Wetland</desc>
+  </wpt>
+  <wpt lon="6.414980900000046" lat="44.97209570000007">
+    <ele>0</ele>
+    <name>Melting of the Arsine Glacier</name>
+    <desc>Wetland</desc>
+  </wpt>
+  <wpt lon="6.411592400000075" lat="44.96968810000004">
+    <ele>0</ele>
+    <name>Arsine Glacier</name>
+    <desc>Wetland</desc>
+  </wpt>
+  <wpt lon="6.416253700000027" lat="44.97957280000003">
+    <ele>0</ele>
+    <name>Eurasian Skylark</name>
+    <desc>Animal</desc>
+  </wpt>
+  <wpt lon="6.422619900000029" lat="44.98205410000003">
+    <ele>0</ele>
+    <name>Grey Wagtail</name>
+    <desc>Animal</desc>
+  </wpt>
+  <wpt lon="6.430244500000072" lat="44.98142560000008">
+    <ele>0</ele>
+    <name>Butterfly by Day, Moth by Night</name>
+    <desc>Animal</desc>
+  </wpt>
+  <wpt lon="6.432515300000034" lat="44.981065200000046">
+    <ele>0</ele>
+    <name>Ring Ouzel</name>
+    <desc>Animal</desc>
+  </wpt>
+  <wpt lon="6.441623900000025" lat="44.97930180000003">
+    <ele>0</ele>
+    <name>Color of the Meandering Water</name>
+    <desc>Wetland</desc>
+  </wpt>
+  <wpt lon="6.4464680000000385" lat="44.97813590000004">
+    <ele>0</ele>
+    <name>Citril Finch</name>
+    <desc>Animal</desc>
+  </wpt>
+  <wpt lon="6.459853600000031" lat="44.97680580000008">
+    <ele>0</ele>
+    <name>The Golden Eagle, Symbol of the Écrins</name>
+    <desc>Animal</desc>
+  </wpt>
+  <wpt lon="6.456174300000043" lat="44.97631390000004">
+    <ele>0</ele>
+    <name>European Larch</name>
+    <desc>Plant</desc>
+  </wpt>
+  <wpt lon="6.458858100000043" lat="44.97674870000003">
+    <ele>0</ele>
+    <name>A Flying Predator</name>
+    <desc>Animal</desc>
+  </wpt>
+  <wpt lon="6.4501441000000455" lat="44.97586170000005">
+    <ele>0</ele>
+    <name>Ring Ouzel</name>
+    <desc>Animal</desc>
+  </wpt>
+  <wpt lon="6.465369700000053" lat="44.98182980000007">
+    <ele>0</ele>
+    <name>Chamois</name>
+    <desc>Animal</desc>
+  </wpt>
+  <wpt lon="6.471161800000061" lat="44.98128340000005">
+    <ele>0</ele>
+    <name>White-throated Dipper</name>
+    <desc>Animal</desc>
+  </wpt>
+  <wpt lon="6.472014400000035" lat="44.98391940000005">
+    <ele>0</ele>
+    <name>European Badger</name>
+    <desc>Animal</desc>
+  </wpt>
+  <wpt lon="6.435606500000063" lat="45.034570700000074">
+    <ele>0</ele>
+    <name>Madeleine Hospice</name>
+    <desc>Building</desc>
+  </wpt>
+  <wpt lon="6.425216700000021" lat="45.03792940000005">
+    <ele>0</ele>
+    <name>View of Pic de Rochebrune</name>
+    <desc>View</desc>
+  </wpt>
+  <wpt lon="6.410725300000024" lat="45.035515700000076">
+    <ele>0</ele>
+    <name>The Combeynot Massif, by W. Brockedon</name>
+    <desc>Fun Fact</desc>
+  </wpt>
+  <wpt lon="6.4051280000000475" lat="45.035457800000074">
+    <ele>0</ele>
+    <name>Climate of the Col du Lautaret</name>
+    <desc>Pass</desc>
+  </wpt>
+  <wpt lon="6.398774400000036" lat="45.03638650000005">
+    <ele>0</ele>
+    <name>The Tufa Spring of the Col du Lautaret</name>
+    <desc>Rock Formation</desc>
+  </wpt>
+  <wpt lon="6.384534734000056" lat="44.99617673700004">
+    <ele>0</ele>
+    <name>Refuge de l'alpe de villar d'arene</name>
+    <desc>Hotel</desc>
+  </wpt>
+  <wpt lon="6.337279410000065" lat="45.043767510000066">
+    <ele>0</ele>
+    <name>Logis Hotel le Faranchin</name>
+    <desc>Hotel</desc>
+  </wpt>
+  <wpt lon="6.5090499030000615" lat="44.97584563300006">
+    <ele>0</ele>
+    <name>Hotel Le Monetier</name>
+    <desc>Hotel</desc>
+  </wpt>
+</gpx>
